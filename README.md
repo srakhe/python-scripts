@@ -1,2 +1,3 @@
-# basic-py-template
-This is my basic template for project repos.
+# Awesome Python Scripts
+
+A collection of all my python scripts.
